@@ -1,15 +1,15 @@
-1. Project Title / Headline
+
  
    Inventory Dahsboard : Real-Time Inventory Insights for Smarter Decisions
 
-3. Short Description / Purpose
+1. Short Description / Purpose
     
    An interactive Power BI dashboard designed to monitor inventory performance, stock availability, inventory valuation, turnover rates, 
    and sales trends. The solution provides real-time visibility into inventory operations through KPI tracking, category analysis, 
    regional performance monitoring, and product-level insights, enabling businesses to optimize stock levels, improve operational 
    efficiency, and support informed decision-making.
 
-3. Core Technologies
+2. Core Technologies
 
    Power BI Desktop- Dashboard development and visualization.
                     Interactive reporting and data modeling.
@@ -36,14 +36,14 @@
                        Interactive Filtering
                        Visual cross-filtering and cross-highlighting
 
-4. Data Source
+3. Data Source
 
    Source - https://datachy-2.kit.com/inventor
    Inventory and Sales Management Dataset containing product, inventory, sales, category, and store-level transactional data. The data 
    is modeled to support inventory valuation, stock monitoring, turnover analysis, sell-through measurement, and operational reporting 
    through interactive Power BI dashboards.
 
-5. Feature and Highlights
+4. Feature and Highlights
 
    💰 Measures Inventory Value
  
@@ -77,7 +77,7 @@
     
     ✅ Track inventory performance in real time
 
-6. Screenshots / Demos
+5. Screenshots / Demos
 
      https://github.com/AmanjitKaurRehal/Inventory-Dashboard/blob/main/Inventory-Analytics.png
 
